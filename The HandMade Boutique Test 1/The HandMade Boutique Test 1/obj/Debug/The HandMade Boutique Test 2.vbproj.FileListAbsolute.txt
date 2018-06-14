@@ -1,0 +1,11 @@
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\The HandMade Boutique Test 1\The HandMade Boutique Test 1\obj\Debug\The_HandMade_Boutique_Test_1.Form1.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\The HandMade Boutique Test 1\The HandMade Boutique Test 1\obj\Debug\The_HandMade_Boutique_Test_1.Form2.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\The HandMade Boutique Test 1\The HandMade Boutique Test 1\obj\Debug\The_HandMade_Boutique_Test_1.Resources.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\The HandMade Boutique Test 1\The HandMade Boutique Test 1\obj\Debug\The HandMade Boutique Test 2.vbproj.GenerateResource.Cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\The HandMade Boutique Test 1\The HandMade Boutique Test 1\obj\Debug\The HandMade Boutique Test 1.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\The HandMade Boutique Test 1\The HandMade Boutique Test 1\obj\Debug\The HandMade Boutique Test 1.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\The HandMade Boutique Test 1\The HandMade Boutique Test 1\obj\Debug\The HandMade Boutique Test 1.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\The HandMade Boutique Test 1\The HandMade Boutique Test 1\bin\Debug\The HandMade Boutique Test 1.exe.config
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\The HandMade Boutique Test 1\The HandMade Boutique Test 1\bin\Debug\The HandMade Boutique Test 1.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\The HandMade Boutique Test 1\The HandMade Boutique Test 1\bin\Debug\The HandMade Boutique Test 1.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\The HandMade Boutique Test 1\The HandMade Boutique Test 1\bin\Debug\The HandMade Boutique Test 1.xml
