@@ -1,0 +1,5 @@
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Metelus12098876 ShopProject VB90\Metelus12098876 ShopProject VB90\bin\Debug\Metelus12098876 ShopProject VB90.exe.config
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Metelus12098876 ShopProject VB90\Metelus12098876 ShopProject VB90\obj\Debug\Metelus12098876_ShopProject_VB90.Form1.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Metelus12098876 ShopProject VB90\Metelus12098876 ShopProject VB90\obj\Debug\Metelus12098876_ShopProject_VB90.Resources.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Metelus12098876 ShopProject VB90\Metelus12098876 ShopProject VB90\obj\Debug\Metelus12098876 ShopProject VB90.vbproj.GenerateResource.Cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Metelus12098876 ShopProject VB90\Metelus12098876 ShopProject VB90\obj\Debug\Metelus12098876_ShopProject_VB90.trinketStore.resources

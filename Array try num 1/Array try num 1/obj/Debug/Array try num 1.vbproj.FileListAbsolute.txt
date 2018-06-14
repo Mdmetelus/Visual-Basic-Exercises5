@@ -1,0 +1,11 @@
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Array try num 1\Array try num 1\bin\Debug\Array try num 1.exe.config
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Array try num 1\Array try num 1\bin\Debug\Array try num 1.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Array try num 1\Array try num 1\bin\Debug\Array try num 1.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Array try num 1\Array try num 1\bin\Debug\Array try num 1.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Array try num 1\Array try num 1\obj\Debug\Array try num 1.vbprojResolveAssemblyReference.cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Array try num 1\Array try num 1\obj\Debug\Array_try_num_1.Form1.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Array try num 1\Array try num 1\obj\Debug\Array_try_num_1.Resources.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Array try num 1\Array try num 1\obj\Debug\Array try num 1.vbproj.GenerateResource.Cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Array try num 1\Array try num 1\obj\Debug\Array try num 1.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Array try num 1\Array try num 1\obj\Debug\Array try num 1.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Array try num 1\Array try num 1\obj\Debug\Array try num 1.pdb
