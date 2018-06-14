@@ -1,0 +1,15 @@
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 IRA Loops Final Project\Chapter 6 IRA Loops Final Project\bin\Debug\Chapter 6 IRA Loops Final Project.exe.config
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 IRA Loops Final Project\Chapter 6 IRA Loops Final Project\obj\Debug\Chapter_6_IRA_Loops_Final_Project.Form3.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 IRA Loops Final Project\Chapter 6 IRA Loops Final Project\obj\Debug\Chapter_6_IRA_Loops_Final_Project.Form2.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 IRA Loops Final Project\Chapter 6 IRA Loops Final Project\obj\Debug\Chapter_6_IRA_Loops_Final_Project.Resources.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 IRA Loops Final Project\Chapter 6 IRA Loops Final Project\obj\Debug\Chapter 6 IRA Loops Final Project.vbproj.GenerateResource.Cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 IRA Loops Final Project\Chapter 6 IRA Loops Final Project\obj\Debug\Chapter_6_IRA_Loops_Final_Project.Form4.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 IRA Loops Final Project\Chapter 6 IRA Loops Final Project\bin\Debug\Chapter 6 IRA Loops Final Project.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 IRA Loops Final Project\Chapter 6 IRA Loops Final Project\bin\Debug\Chapter 6 IRA Loops Final Project.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 IRA Loops Final Project\Chapter 6 IRA Loops Final Project\bin\Debug\Chapter 6 IRA Loops Final Project.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 IRA Loops Final Project\Chapter 6 IRA Loops Final Project\obj\Debug\Chapter 6 IRA Loops Final Project.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 IRA Loops Final Project\Chapter 6 IRA Loops Final Project\obj\Debug\Chapter 6 IRA Loops Final Project.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 IRA Loops Final Project\Chapter 6 IRA Loops Final Project\obj\Debug\Chapter 6 IRA Loops Final Project.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 IRA Loops Final Project\Chapter 6 IRA Loops Final Project\obj\Debug\Chapter_6_IRA_Loops_Final_Project.Form5.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 IRA Loops Final Project\Chapter 6 IRA Loops Final Project\obj\Debug\Chapter_6_IRA_Loops_Final_Project.Form1.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 IRA Loops Final Project\Chapter 6 IRA Loops Final Project\obj\Debug\Chapter 6 IRA Loops Final Project.vbprojResolveAssemblyReference.cache

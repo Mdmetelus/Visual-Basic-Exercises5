@@ -1,0 +1,10 @@
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 Project8 IRAs\Chapter 6 Project8 IRAs\bin\Debug\Chapter 6 Project8 IRAs.exe.config
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 Project8 IRAs\Chapter 6 Project8 IRAs\bin\Debug\Chapter 6 Project8 IRAs.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 Project8 IRAs\Chapter 6 Project8 IRAs\bin\Debug\Chapter 6 Project8 IRAs.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 Project8 IRAs\Chapter 6 Project8 IRAs\bin\Debug\Chapter 6 Project8 IRAs.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 Project8 IRAs\Chapter 6 Project8 IRAs\obj\Debug\Chapter_6_Project8_IRAs.IRA.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 Project8 IRAs\Chapter 6 Project8 IRAs\obj\Debug\Chapter_6_Project8_IRAs.Resources.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 Project8 IRAs\Chapter 6 Project8 IRAs\obj\Debug\Chapter 6 Project8 IRAs.vbproj.GenerateResource.Cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 Project8 IRAs\Chapter 6 Project8 IRAs\obj\Debug\Chapter 6 Project8 IRAs.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 Project8 IRAs\Chapter 6 Project8 IRAs\obj\Debug\Chapter 6 Project8 IRAs.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter 6 Project8 IRAs\Chapter 6 Project8 IRAs\obj\Debug\Chapter 6 Project8 IRAs.pdb
