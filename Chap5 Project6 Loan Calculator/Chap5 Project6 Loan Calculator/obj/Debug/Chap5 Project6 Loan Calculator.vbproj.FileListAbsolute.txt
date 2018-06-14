@@ -1,0 +1,10 @@
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap5 Project6 Loan Calculator\Chap5 Project6 Loan Calculator\bin\Debug\Chap5 Project6 Loan Calculator.exe.config
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap5 Project6 Loan Calculator\Chap5 Project6 Loan Calculator\bin\Debug\Chap5 Project6 Loan Calculator.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap5 Project6 Loan Calculator\Chap5 Project6 Loan Calculator\bin\Debug\Chap5 Project6 Loan Calculator.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap5 Project6 Loan Calculator\Chap5 Project6 Loan Calculator\bin\Debug\Chap5 Project6 Loan Calculator.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap5 Project6 Loan Calculator\Chap5 Project6 Loan Calculator\obj\Debug\Chap5_Project6_Loan_Calculator.Form1.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap5 Project6 Loan Calculator\Chap5 Project6 Loan Calculator\obj\Debug\Chap5_Project6_Loan_Calculator.Resources.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap5 Project6 Loan Calculator\Chap5 Project6 Loan Calculator\obj\Debug\Chap5 Project6 Loan Calculator.vbproj.GenerateResource.Cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap5 Project6 Loan Calculator\Chap5 Project6 Loan Calculator\obj\Debug\Chap5 Project6 Loan Calculator.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap5 Project6 Loan Calculator\Chap5 Project6 Loan Calculator\obj\Debug\Chap5 Project6 Loan Calculator.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap5 Project6 Loan Calculator\Chap5 Project6 Loan Calculator\obj\Debug\Chap5 Project6 Loan Calculator.pdb

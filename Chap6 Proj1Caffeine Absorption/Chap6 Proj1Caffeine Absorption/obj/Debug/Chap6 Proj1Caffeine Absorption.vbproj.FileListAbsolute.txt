@@ -1,0 +1,11 @@
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap6 Proj1Caffeine Absorption\Chap6 Proj1Caffeine Absorption\bin\Debug\Chap6 Proj1Caffeine Absorption.exe.config
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap6 Proj1Caffeine Absorption\Chap6 Proj1Caffeine Absorption\obj\Debug\Chap6 Proj1Caffeine Absorption.vbprojResolveAssemblyReference.cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap6 Proj1Caffeine Absorption\Chap6 Proj1Caffeine Absorption\obj\Debug\Chap6_Proj1Caffeine_Absorption.Resources.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap6 Proj1Caffeine Absorption\Chap6 Proj1Caffeine Absorption\obj\Debug\Chap6 Proj1Caffeine Absorption.vbproj.GenerateResource.Cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap6 Proj1Caffeine Absorption\Chap6 Proj1Caffeine Absorption\bin\Debug\Chap6 Proj1Caffeine Absorption.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap6 Proj1Caffeine Absorption\Chap6 Proj1Caffeine Absorption\bin\Debug\Chap6 Proj1Caffeine Absorption.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap6 Proj1Caffeine Absorption\Chap6 Proj1Caffeine Absorption\bin\Debug\Chap6 Proj1Caffeine Absorption.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap6 Proj1Caffeine Absorption\Chap6 Proj1Caffeine Absorption\obj\Debug\Chap6 Proj1Caffeine Absorption.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap6 Proj1Caffeine Absorption\Chap6 Proj1Caffeine Absorption\obj\Debug\Chap6 Proj1Caffeine Absorption.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap6 Proj1Caffeine Absorption\Chap6 Proj1Caffeine Absorption\obj\Debug\Chap6 Proj1Caffeine Absorption.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap6 Proj1Caffeine Absorption\Chap6 Proj1Caffeine Absorption\obj\Debug\Chap6_Proj1Caffeine_Absorption.CoffeeAbsorption.resources
