@@ -1,0 +1,10 @@
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Extra credit Factirial project\Extra credit Factirial project\bin\Debug\Extra credit Factirial project.exe.config
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Extra credit Factirial project\Extra credit Factirial project\bin\Debug\Extra credit Factirial project.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Extra credit Factirial project\Extra credit Factirial project\bin\Debug\Extra credit Factirial project.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Extra credit Factirial project\Extra credit Factirial project\bin\Debug\Extra credit Factirial project.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Extra credit Factirial project\Extra credit Factirial project\obj\Debug\Extra_credit_Factirial_project.factorialCalculator.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Extra credit Factirial project\Extra credit Factirial project\obj\Debug\Extra_credit_Factirial_project.Resources.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Extra credit Factirial project\Extra credit Factirial project\obj\Debug\Extra credit Factirial project.vbproj.GenerateResource.Cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Extra credit Factirial project\Extra credit Factirial project\obj\Debug\Extra credit Factirial project.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Extra credit Factirial project\Extra credit Factirial project\obj\Debug\Extra credit Factirial project.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Extra credit Factirial project\Extra credit Factirial project\obj\Debug\Extra credit Factirial project.pdb
